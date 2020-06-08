@@ -1,0 +1,88 @@
+version: "3.7"
+services:
+  redis-7001:
+    container_name: redis-7001
+    build: redis-7001
+    hostname: redis-7001
+    privileged: true
+    ports:
+      - "7001:6379"
+      - "17001:16379"
+    networks:
+      - network
+    volumes:
+      - redis-7001:/data/
+  redis-7002:
+    container_name: redis-7002
+    build: redis-7002
+    hostname: redis-7002
+    privileged: true
+    ports:
+      - "7002:6379"
+      - "17002:16379"
+    networks:
+      - network
+    volumes:
+      - redis-7002:/data/
+  redis-7003:
+    container_name: redis-7003
+    build: redis-7003
+    hostname: redis-7003
+    privileged: true
+    ports:
+      - "7003:6379"
+      - "17003:16379"
+    networks:
+      - network
+    volumes:
+      - redis-7003:/data/
+  redis-7004:
+    container_name: redis-7004
+    build: redis-7004
+    hostname: redis-7004
+    privileged: true
+    ports:
+      - "7004:6379"
+      - "17004:16379"
+    networks:
+      - network
+    volumes:
+      - redis-7004:/data/
+  redis-7005:
+    container_name: redis-7005
+    build: redis-7005
+    hostname: redis-7005
+    privileged: true
+    ports:
+      - "7005:6379"
+      - "17005:16379"
+    networks:
+      - network
+    volumes:
+      - redis-7005:/data/
+  redis-7006:
+    container_name: redis-7006
+    build: redis-7006
+    hostname: redis-7006
+    privileged: true
+    ports:
+      - "7006:6379"
+      - "17006:16379"
+    networks:
+      - network
+    volumes:
+      - redis-7006:/data/
+networks:
+  network:
+    driver: bridge
+    name: redis-cluster
+volumes:
+  redis-7001: {}
+  redis-7002: {}
+  redis-7003: {}
+  redis-7004: {}
+  redis-7005: {}
+  redis-7006: {}
+
+
+

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30c6a298-5949-40fb-922f-0c1690090ff1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1chacJS8VcsI88uwxCOkOd8Z29U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/redis-7002" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Idea\redis-cluster\redis-7002" />
+      <recent name="D:\Idea\redis-cluster" />
+      <recent name="D:\Idea\redis-cluster\redis-7001" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Idea\redis-cluster\redis-7006" />
+      <recent name="D:\Idea\redis-cluster\redis-7005" />
+      <recent name="D:\Idea\redis-cluster\redis-7004" />
+      <recent name="D:\Idea\redis-cluster\redis-7003" />
+      <recent name="D:\Idea\redis-cluster\redis-7002" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="docker-compose.yml:" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="removeVolumesOnComposeDown" value="true" />
+          <option name="commandLineOptions" value="--build" />
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml:" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30c6a298-5949-40fb-922f-0c1690090ff1" name="Default Changelist" comment="" />
+      <created>1590983356376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590983356376</updated>
+      <workItem from="1590983359321" duration="65000" />
+      <workItem from="1590983447388" duration="8565000" />
+      <workItem from="1590998229905" duration="1822000" />
+      <workItem from="1591000122962" duration="546000" />
+      <workItem from="1591000924470" duration="115000" />
+      <workItem from="1591598712809" duration="1984000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1590983360352">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1590983360352" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591000083181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591000083181" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1590983422695">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590983422695" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1590989492826">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1590989492826" />
+    <state x="-9" y="380" width="1736" height="856" key="dock-window-1" timestamp="1590992949596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-9" y="380" width="1736" height="856" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1590992949596" />
+    <state x="334" y="98" key="new project wizard" timestamp="1590999732164">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="98" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1590999732164" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1590983626095">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590983626095" />
+  </component>
+</project>
